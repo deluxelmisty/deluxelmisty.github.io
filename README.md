@@ -1,6 +1,6 @@
 ### deluxelmisty.github.io
 
-# **Lianne's Top 3 Favorite Studio Ghibli films that she has watched**
+# **My Top 3 Favorite Studio Ghibli films**
 1. ## *Spirited Away*
 ![alt text](https://i.pinimg.com/564x/72/b4/c6/72b4c6542c67d79ef36e22a8ae17eee7.jpg) 
 ![alt text](https://i.pinimg.com/564x/71/1b/08/711b08bb00f02377dc0565b01b7d014f.jpg) 
@@ -14,4 +14,6 @@
 
 
 3. ## *When Marnie Was There*
-![alt text]()
+![alt text](https://i.pinimg.com/564x/06/01/ba/0601ba551c71a84ff3c74650e327cd8a.jpg)
+![alt text](https://i.pinimg.com/564x/5f/36/20/5f36201f112ea0fecc5c6262097bd100.jpg)
+![alt text](https://i.pinimg.com/564x/0f/95/cc/0f95ccb2729f0a66ada9b12e162bad27.jpg)
