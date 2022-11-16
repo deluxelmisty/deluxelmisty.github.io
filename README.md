@@ -8,9 +8,9 @@
 
 
 2. ## *The Cat Returns*
-![alt text](https://i.pinimg.com/564x/5e/c6/02/5ec6024386dc8a7bd2d42cc03439ee3c.jpg) 
+![alt text](https://i.pinimg.com/564x/9c/c8/fa/9cc8fa3cb523e5dcffda44eee57c84f9.jpg) 
 ![alt text](https://i.pinimg.com/564x/b2/54/57/b254578eefdb2102cec83249cb925653.jpg) 
-![alt text](https://i.pinimg.com/564x/bd/03/f9/bd03f999b499fbc937f89e48e16ea6d1.jpg) 
+![alt text](https://i.pinimg.com/564x/ea/18/9c/ea189cc992d2ff93bf7eb459255d1355.jpg) 
 
 
 3. ## *When Marnie Was There*
