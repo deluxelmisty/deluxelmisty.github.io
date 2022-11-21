@@ -3,7 +3,7 @@
 ---
 
 - # *Spirited Away*
->`A grumpy 10-year-old girl accidentally travels into a world inhabited by gods, witches, and spirits, where humans are transformed into monsters, as her family relocates to the suburbs.`
+>`As a grumpy 10-year-old girl's family relocates to the suburbs, she accidentally travels into a world inhabited by gods, witches, and spirits.`
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ByXuk9QqQkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
