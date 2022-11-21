@@ -2,7 +2,7 @@
 
 ---
 
-- ## *Spirited Away*
+- # *Spirited Away*
 >`A grumpy 10-year-old girl accidentally travels into a world inhabited by gods, witches, and spirits, where humans are transformed into monsters, as her family relocates to the suburbs.`
 
 ![alt text](https://i.pinimg.com/564x/72/b4/c6/72b4c6542c67d79ef36e22a8ae17eee7.jpg) 
@@ -12,7 +12,7 @@
 
 ---
 
-- ## *The Cat Returns* 
+- # *The Cat Returns* 
 >`In a mythical realm where her only chance of gaining freedom is from a handsome cat sculpture brought to life, a seventeen-year-old girl finds herself unwittingly engaged to a cat Prince after assisting a cat.`
 
 ![alt text](https://i.pinimg.com/564x/b2/54/57/b254578eefdb2102cec83249cb925653.jpg) 
@@ -22,7 +22,7 @@
 
 ---
 
-- ## *When Marnie Was There*
+- # *When Marnie Was There*
 >`A 12-year-old brunette girl with asthma is transferred to live with her guardian's family in the Japanese countryside due to her condition. She enjoys drawing by herself, and she made it as her hobby. With her hobby, she became friends with Marnie. However, who is the enigmatic blonde Marnie?` 
 
 ![alt text](https://i.pinimg.com/564x/06/01/ba/0601ba551c71a84ff3c74650e327cd8a.jpg) 
