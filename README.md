@@ -1,5 +1,3 @@
-### deluxelmisty.github.io
-
 # **My Top 3 Favorite Studio Ghibli films that I highly recommend**🎥🎞️
 
 ---
