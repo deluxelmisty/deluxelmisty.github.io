@@ -12,7 +12,7 @@
 ---
 
 - # *The Cat Returns* 
->`In a mythical realm where her only chance of gaining freedom is from a handsome cat sculpture brought to life, a seventeen-year-old girl finds herself unwittingly engaged to a cat prince after assisting a cat from his kingdom.`
+>`In a mythical realm where her only chance of gaining freedom is from a handsome cat sculpture brought to life, a seventeen-year-old girl finds herself unwittingly engaged to a cat prince after saving him.`
 
 ![alt text](https://i.pinimg.com/564x/b2/54/57/b254578eefdb2102cec83249cb925653.jpg) 
 ![alt text](https://i.pinimg.com/564x/fb/b0/94/fbb09423f204202c8bc0e1a1e5f1932f.jpg) 
