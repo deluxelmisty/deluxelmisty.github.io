@@ -39,5 +39,5 @@
 
 ---
 
-# Where to fully watch all of them 
+# Where To Watch
 [*9anime.to*](https://9anime.to/)
