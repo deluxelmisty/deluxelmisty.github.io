@@ -39,5 +39,5 @@
 
 ---
 
-# Where To Fully Watch All Of My Said Films 
+# Where to fully watch all of them 
 [*9anime.to*](https://9anime.to/)
